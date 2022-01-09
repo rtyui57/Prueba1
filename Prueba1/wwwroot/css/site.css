@@ -18,6 +18,39 @@ app {
     
 }
 
+.fila-noticias{
+     height:30%;
+}
+
+.container{
+      height:100%;
+}
+
+.ocupar_altura{
+    height:90vh;
+}
+
+.btn-tipo1 {
+    background-color: #C1A2FF;
+    border: #4400FF 2px solid;
+    border-radius: 32px;
+}
+
+.div-tipo1 {
+    background-color: #C1A2FF;
+    border: #4400FF 2px solid;
+}
+
+sin-decoracion{
+    text-decoration:none;
+    color: black;
+}
+
+.noticia {
+    border: #BC2DA4 3px solid;
+    background-color: white;
+    width: 30%;
+}
 .barra_navegacion {
     background-color: #4ED1C5;
     height: 10vh;
@@ -33,7 +66,7 @@ app {
 .main {
     flex: 1;
     background-color: #D7FFFB;
-    height: 90vh;
+    height: 100%;
 }
 
     .main .top-row {
